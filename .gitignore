@@ -1,0 +1,36 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+.python-version
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build Artifacts
+dist/
+build/
+*.egg-info/
+.tox/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE/Editor (Adjust as needed)
+.idea/
+.vscode/
+*.swp
+
+# Sensitive Data & Config
+.env
+.flaskenv
+config.ini
+secrets.json
+
+# Logs and Temporary Data
+*.log
+*.tmp
+/tmp/
