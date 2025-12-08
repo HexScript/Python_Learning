@@ -34,3 +34,4 @@ secrets.json
 *.log
 *.tmp
 /tmp/
+.ipynb_checkpoints/
