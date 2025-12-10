@@ -9,7 +9,6 @@ phone_number = input("Enter your phone #: ")
 # name = name.lower()
 # result = name.isdigit()
 # result = phone_number.count("-")
-# phone_number = 
-phone_number.replace("-", " ")
+# phone_number = phone_number.replace("-", " ")
 
 print(phone_number)
